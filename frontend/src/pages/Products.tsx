@@ -2,9 +2,13 @@ const Products = () => {
   return (
     <div>
       <h2>Products</h2>
-      <p>List of products will go here.</p>
+      <ul>
+        <li>iPhone 15</li>
+        <li>MacBook Pro</li>
+        <li>AirPods Pro</li>
+      </ul>
     </div>
   );
 };
 
-export default Products;
+export default Products
